@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek Jadhav <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" />
+# Hi, I'm Abhishek Jadhav <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" height="24" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=100&size=20&duration=3400&pause=100&color=2F81F7&width=435&height=30&lines=Full+Stack+Developer;Blockchain+Developer;Team+Player+%7C+Lead+%7C+Independent)](https://git.io/typing-svg)
 <br/>
@@ -8,12 +8,17 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
   <img src="https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/output/generated/overview.svg" alt="abhishek-stats" align="right" />
 </a
 
-- 🏢 I'm currently working at [Heim Labs](https://www.heimlabs.com/)
-- 🏢 Also working at [Huf India Pvt. Ltd.](https://www.huf-group.com/en)
-- 💙 Web Head @ [PICT CSI Students Branch](https://www.pictcsi.com/)
-- 😎 Web Domain Head @ [GDSC, PICT](https://github.com/GDSC-PICT)
-- 🌟 Former Web Team Head @ [InC'23, PICT](https://pictinc.org/)
-- 🎯 Trying to be better each day.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="16" height="16" /> I'm currently working at [Heim Labs](https://www.heimlabs.com/)
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="16" height="16" /> Also working at [Huf India Pvt. Ltd.](https://www.huf-group.com/en)
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Wheel%20of%20Dharma.png" alt="Wheel of Dharma" width="16" height="16" /> Web Head @ [PICT CSI Students Branch](https://www.pictcsi.com/)
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="16" height="14" /> Web Domain Head @ [GDSC, PICT](https://github.com/GDSC-PICT)
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="16" height="14" /> Former Web Team Head @ [InC'23, PICT](https://pictinc.org/)
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="16" height="14" /> Trying to be better each day.
   <br>
 
 ### Connect to talk and build together
@@ -125,16 +130,8 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 
 <summary>
 
-<details>
-    <summary>📊 <b>Weekly Development Breakdown</b></summary><br/>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</details>
-
-<details>
-    <summary>🔢 <b>GitHub Stats</b></summary><br/>
+<details open>
+    <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Input%20Numbers.png" alt="Input Numbers" width="16" height="16" /> <b>GitHub Stats</b></summary>
 
 <a href="#hi-im-abhishek-jadhav">
 <img src="https://readme-stats.warengonzaga.com/api?username=AbhishekJadhav2002&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="abhishek-stats" align="left" width="60%" />
@@ -153,33 +150,32 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 </a>
 
 </details>
-<details>
-    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br>
+    <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="16" height="16" /> <b>GitHub Awards</b></summary>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=AbhishekJadhav2002&theme=dracula)
 
 </details>
 
+<details>
+    <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
+
+<details>
+    <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Japanese%20Symbol%20for%20Beginner.png" alt="Japanese Symbol for Beginner" width="16" height="16" /> <b>GitHub Activities</b></summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 </summary>
 <br>
-
-[personal website]: https://warengonzaga.com
-[business website]: https://wgcompanyhq.com
-[biolink]: https://bio.link/warengonzaga
-[facebook]: https://facebook.com/warengonzagaofficial
-[twitter]: https://twitter.com/warengonzaga
-[instagram]: https://instagram.com/wrngnzg
-[youtube]: https://youtube.com/warengonzaga
-
 <p width="100%">
   <a href="https://github.com/AbhishekJadhav2002/AbhishekJadhav2002">
     <img src="https://komarev.com/ghpvc/?username=AbhishekJadhav2002" alt="page views" />
