@@ -4,7 +4,7 @@
 Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institute of Computer Technology](https://pict.edu/) majoring in Information Technology. I am a full-stack software developer from India with a proven ability to deliver high-quality solutions. Currently working as a Full Stack Developer at [Heim Labs](https://www.heimlabs.com/).
 
 <a href="#abhishek-title">
-  <img src="https://raw.githubusercontent.com/AbhishekJadhav2002/github-readme-update/output/generated/overview.svg" alt="abhishek-stats" align="right" />
+  <img src="https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/output/generated/overview.svg" alt="abhishek-stats" align="right" />
 </a
 
 - 🏢 I'm currently working at [Heim Labs](https://www.heimlabs.com/)
@@ -131,7 +131,7 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 </a>
 
 <a href="#abhishek-title">
-<img src="https://raw.githubusercontent.com/AbhishekJadhav2002/github-readme-update/output/generated/languages.svg" alt="abhishek-stats" align="right" width="40%" />
+<img src="https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/output/generated/languages.svg" alt="abhishek-stats" align="right" width="40%" />
 </a>
 
 <a href="#abhishek-title">
