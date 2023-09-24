@@ -1,9 +1,10 @@
-# Hi, I'm Abhishek Jadhav👋
+# Hi, I'm Abhishek Jadhav <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=100&size=20&duration=3400&pause=100&color=2F81F7&width=435&height=30&lines=Full+Stack+Developer;Blockchain+Developer;Team+Player+%7C+Lead+%7C+Independent)](https://git.io/typing-svg)
 <br/>
 Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institute of Computer Technology](https://pict.edu/) majoring in Information Technology. I am a full-stack software developer from India with a proven ability to deliver high-quality solutions. Currently working as a Full Stack Developer at [Heim Labs](https://www.heimlabs.com/).
 
-<a href="#abhishek-title">
+<a href="#hi-im-abhishek-jadhav">
   <img src="https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/output/generated/overview.svg" alt="abhishek-stats" align="right" />
 </a
 
@@ -13,10 +14,11 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 - 😎 Web Domain Head @ [GDSC, PICT](https://github.com/GDSC-PICT)
 - 🌟 Former Web Team Head @ [InC'23, PICT](https://pictinc.org/)
 - 🎯 Trying to be better each day.
-<br>
+  <br>
 
 ### Connect to talk and build together
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishekjadhav2002/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&color=lightblue)](https://twitter.com/Abhishek_Jadhv) [![StackOverflow](https://img.shields.io/badge/stackoverflow-color.svg?style=flat-square&logo=Stackoverflow&color=black)](https://stackoverflow.com/users/17222693/abhishek-jadhav?tab=profile) [![Instagram](https://img.shields.io/badge/instagram-color.svg?&style=flat-square&logo=instagram&color=F1A73C)](https://www.instagram.com/abhi_jadhav_2002)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&color=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/abhishekjadhav2002/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&color=0D1117&labelColor=0D1117)](https://twitter.com/Abhishek_Jadhv) [![StackOverflow](https://img.shields.io/badge/stackoverflow-color.svg?style=flat-square&logo=Stackoverflow&color=0D1117)](https://stackoverflow.com/users/17222693/abhishek-jadhav?tab=profile) [![Instagram](https://img.shields.io/badge/instagram-color.svg?&style=flat-square&logo=instagram&color=0D1117&labelColor=0D1117)](https://www.instagram.com/abhi_jadhav_2002)
 
 <!-- ### My Favorite Tools
 
@@ -124,21 +126,31 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 <summary>
 
 <details>
+    <summary>📊 <b>Weekly Development Breakdown</b></summary><br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
+
+<details>
     <summary>🔢 <b>GitHub Stats</b></summary><br/>
 
-<a href="#abhishek-title">
+<a href="#hi-im-abhishek-jadhav">
 <img src="https://readme-stats.warengonzaga.com/api?username=AbhishekJadhav2002&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="abhishek-stats" align="left" width="60%" />
 </a>
 
-<a href="#abhishek-title">
+<a href="#hi-im-abhishek-jadhav">
 <img src="https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/output/generated/languages.svg" alt="abhishek-stats" align="right" width="40%" />
 </a>
 
-<a href="#abhishek-title">
+<a href="#hi-im-abhishek-jadhav">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhishekJadhav2002&theme=github-dark&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB" alt="abhishek-stats" align="center" width="100%" />
 </a>
 
- <a href="#abhishek-title"><img alt="Abhishek Jadhav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AbhishekJadhav2002&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title=My%20Contribution%20Graph" align="center" width="100%" /></a>
+<a href="#hi-im-abhishek-jadhav">
+<img alt="Abhishek Jadhav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AbhishekJadhav2002&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title=My%20Contribution%20Graph" align="center" width="100%" />
+</a>
 
 </details>
 <details>
@@ -178,3 +190,30 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AbhishekJadhav2002?color=green&logo=github">
   </a>
 </p>
+
+
+<div align="">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+</div>
