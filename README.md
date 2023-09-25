@@ -149,7 +149,7 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 <details>
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="16" height="16" /> <b>GitHub Awards</b></summary>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=AbhishekJadhav2002&theme=dracula)
+[![Github Trophy](https://github-trophies.vercel.app/?username=AbhishekJadhav&no-frame=true&no-bg=true&margin-w=10&theme=algolia)](#hi-im-abhishek-jadhav)
 
 </details>
 
@@ -163,52 +163,52 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 60.0 kB Used in GitHub's Storage 
- > 
+> 📦 60.0 kB Used in GitHub's Storage
+ >
 > 🏆 867 Contributions in the Year 2023
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 49 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-📅 **I'm Most Productive on Thursday** 
+ >
+> 📜 49 Public Repositories
+ >
+> 🔑 10 Private Repositories
+ >
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   505 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Tuesday                  319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Wednesday                363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Thursday                 1212 commits        █████████░░░░░░░░░░░░░░░░   35.95 % 
-Friday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Saturday                 305 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Sunday                   327 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Monday                   505 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 %
+Tuesday                  319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+Wednesday                363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Thursday                 1212 commits        █████████░░░░░░░░░░░░░░░░   35.95 %
+Friday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Saturday                 305 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Sunday                   327 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Markdown                 1 hr 3 mins         █████████████████████████   98.56 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+💬 Programming Languages:
+Markdown                 1 hr 3 mins         █████████████████████████   98.56 %
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 
-🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               34 repos            ██████████░░░░░░░░░░░░░░░   40.96 % 
-TypeScript               22 repos            ███████░░░░░░░░░░░░░░░░░░   26.51 % 
-HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JavaScript               34 repos            ██████████░░░░░░░░░░░░░░░   40.96 %
+TypeScript               22 repos            ███████░░░░░░░░░░░░░░░░░░   26.51 %
+HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 
