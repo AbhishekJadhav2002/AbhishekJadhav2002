@@ -245,9 +245,6 @@ CSS                      3 repos             █░░░░░░░░░░�
   <a href="https://github.com/AbhishekJadhav2002?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AbhishekJadhav2002?color=green&logo=github">
   </a>
-  <a href="https://github.com/AbhishekJadhav2002/AbhishekJadhav2002">
-    <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue" alt="Lines of code" />
-  </a>
 </p>
 
 
