@@ -137,7 +137,7 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 </a>
 
 <a href="#hi-im-abhishek-jadhav">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AbhishekJadhav2002&theme=github-dark&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB" alt="abhishek-stats" align="center" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJadhav2002&theme=github-dark&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB" alt="abhishek-stats" align="center" width="100%" />
 </a>
 
 <a href="#hi-im-abhishek-jadhav">
