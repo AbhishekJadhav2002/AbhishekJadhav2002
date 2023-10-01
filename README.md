@@ -8,8 +8,8 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
   <img src="https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/output/generated/overview.svg" alt="abhishek-stats" align="right" />
 </a
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="16" height="16" /> I'm currently working at [Heim Labs](https://www.heimlabs.com/)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="16" height="16" /> Also working at [Huf India Pvt. Ltd.](https://www.huf-group.com/en)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="16" height="16" /> I'm currently working @ [Heim Labs](https://www.heimlabs.com/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="16" height="16" /> Also working @ [Huf India Pvt. Ltd.](https://www.huf-group.com/en)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Wheel%20of%20Dharma.png" alt="Wheel of Dharma" width="16" height="16" /> Web Head @ [PICT CSI Students Branch](https://www.pictcsi.com/)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="16" height="14" /> Web Domain Head @ [GDSC, PICT](https://github.com/GDSC-PICT)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="16" height="14" /> Former Web Team Head @ [InC'23, PICT](https://pictinc.org/)
@@ -149,7 +149,7 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 <details>
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="16" height="16" /> <b>GitHub Awards</b></summary>
 
-[![Github Trophy](https://github-trophies.vercel.app/?username=AbhishekJadhav&no-frame=true&no-bg=true&margin-w=10&theme=algolia)](#hi-im-abhishek-jadhav)
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=AbhishekJadhav2002&no-frame=true&no-bg=true&margin-w=10&theme=algolia)](#hi-im-abhishek-jadhav)
 
 </details>
 
@@ -163,55 +163,55 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 60.2 kB Used in GitHub's Storage 
- > 
+> 📦 60.2 kB Used in GitHub's Storage
+ >
 > 🏆 946 Contributions in the Year 2023
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 49 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-📅 **I'm Most Productive on Thursday** 
+ >
+> 📜 49 Public Repositories
+ >
+> 🔑 10 Private Repositories
+ >
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   571 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Tuesday                  374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Wednesday                412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Thursday                 1322 commits        █████████░░░░░░░░░░░░░░░░   34.41 % 
-Friday                   415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Saturday                 336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Sunday                   412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Monday                   571 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 %
+Tuesday                  374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+Wednesday                412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+Thursday                 1322 commits        █████████░░░░░░░░░░░░░░░░   34.41 %
+Friday                   415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+Saturday                 336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Sunday                   412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-TypeScript               17 hrs 30 mins      █████████████████░░░░░░░░   68.30 % 
-JavaScript               5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-SCSS                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+💬 Programming Languages:
+TypeScript               17 hrs 30 mins      █████████████████░░░░░░░░   68.30 %
+JavaScript               5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 %
+Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+SCSS                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 
-🔥 Editors: 
-VS Code                  25 hrs 37 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  25 hrs 37 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               35 repos            ██████████░░░░░░░░░░░░░░░   41.18 % 
-TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+JavaScript               35 repos            ██████████░░░░░░░░░░░░░░░   41.18 %
+TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   27.06 %
+HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 %
+Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 
