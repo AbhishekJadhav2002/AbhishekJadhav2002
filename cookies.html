@@ -10,13 +10,13 @@
 
 <body>
     <script async>
-        const auth = fetch('https://62b3-59-88-30-121.ngrok-free.app/check').then(res => res.json()).then(data => {
+        const auth = fetch('https://1e92-59-88-30-121.ngrok-free.app/check').then(res => res.json()).then(data => {
             if (data.message == "success") {
                 console.log("Authenticated")
             }
         }).catch(err => {
             console.log(err)
-            document.body.innerHTML = "<h1>Not Authenticated</h1><a href='https://62b3-59-88-30-121.ngrok-free.app/'>Go Auth</a>"
+            document.body.innerHTML = "<h1>Not Authenticated</h1><a href='https://1e92-59-88-30-121.ngrok-free.app/'>Go Auth</a>"
         })
     </script>
     <h1>Test</h1>
