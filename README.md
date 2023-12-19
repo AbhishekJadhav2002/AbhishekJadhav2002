@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
@@ -194,14 +194,14 @@ Sunday                   383 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               16 hrs 45 mins      ████████████████░░░░░░░░░   65.51 % 
-SCSS                     4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Solidity                 3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TypeScript               17 hrs 59 mins      ████████████████░░░░░░░░░   62.20 % 
+SCSS                     4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Solidity                 4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Nginx configuration file 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -221,7 +221,7 @@ Solidity                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2023 18:44:28 UTC
+ Last Updated on 19/12/2023 18:42:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
