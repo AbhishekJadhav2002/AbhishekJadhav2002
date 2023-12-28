@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -194,14 +194,14 @@ Sunday                   385 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               27 hrs 28 mins      ██████████████░░░░░░░░░░░   57.14 % 
-Nginx configuration file 8 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-JavaScript               2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-YAML                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Docker                   1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+TypeScript               30 hrs 57 mins      ████████████████░░░░░░░░░   65.64 % 
+Nginx configuration file 6 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+YAML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+JavaScript               1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+SCSS                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-VS Code                  48 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  47 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -221,7 +221,7 @@ Solidity                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2023 18:41:29 UTC
+ Last Updated on 28/12/2023 18:41:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
