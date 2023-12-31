@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -165,9 +165,9 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 
 **🐱 My GitHub Data** 
 
-> 📦 75.0 kB Used in GitHub's Storage 
+> 📦 74.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,249 Contributions in the Year 2023
+> 🏆 1,440 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -178,13 +178,13 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   535 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Tuesday                  386 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Wednesday                486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Thursday                 1337 commits        ████████░░░░░░░░░░░░░░░░░   33.86 % 
-Friday                   462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Saturday                 372 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Sunday                   371 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Monday                   562 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Tuesday                  404 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Wednesday                497 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Thursday                 1384 commits        ████████░░░░░░░░░░░░░░░░░   33.40 % 
+Friday                   519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Saturday                 390 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Sunday                   388 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 ```
 
 
@@ -194,21 +194,21 @@ Sunday                   371 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               30 hrs 27 mins      ██████████████████░░░░░░░   70.72 % 
-Nginx configuration file 3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-SCSS                     2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Solidity                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Lua                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+TypeScript               35 hrs 28 mins      ██████████████████░░░░░░░   72.32 % 
+SCSS                     4 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Nginx configuration file 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Solidity                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Lua                      1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-VS Code                  43 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  49 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               29 repos            █████████░░░░░░░░░░░░░░░░   34.52 % 
-HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+TypeScript               30 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Jupyter Notebook         5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 Solidity                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
@@ -221,7 +221,7 @@ Solidity                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2023 18:41:32 UTC
+ Last Updated on 31/12/2023 18:41:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
