@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-591%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
@@ -194,14 +194,14 @@ Sunday                   407 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   16 hrs 2 mins       ████████████████░░░░░░░░░   63.46 % 
-TypeScript               5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-JavaScript               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-SSH Config               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Python                   17 hrs 21 mins      █████████████░░░░░░░░░░░░   53.89 % 
+TypeScript               9 hrs               ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+JavaScript               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Go                       59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  32 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -221,7 +221,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2024 18:44:02 UTC
+ Last Updated on 20/01/2024 18:41:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
