@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -194,14 +194,14 @@ Sunday                   407 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               17 hrs 57 mins      ████████████░░░░░░░░░░░░░   49.14 % 
-SCSS                     7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-JavaScript               5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Python                   3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Solidity                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript               15 hrs 34 mins      ███████████░░░░░░░░░░░░░░   43.94 % 
+JavaScript               9 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+SCSS                     7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Python                   1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Solidity                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  35 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -221,7 +221,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2024 18:41:39 UTC
+ Last Updated on 31/01/2024 18:42:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
