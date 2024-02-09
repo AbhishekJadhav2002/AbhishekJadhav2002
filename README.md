@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-669%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
@@ -167,7 +167,7 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 
 > 📦 75.1 kB Used in GitHub's Storage 
  > 
-> 🏆 119 Contributions in the Year 2024
+> 🏆 120 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -178,13 +178,13 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   593 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Tuesday                  435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Wednesday                523 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Thursday                 1431 commits        ████████░░░░░░░░░░░░░░░░░   32.68 % 
-Friday                   572 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Monday                   593 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Tuesday                  435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Wednesday                523 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Thursday                 1428 commits        ████████░░░░░░░░░░░░░░░░░   32.63 % 
+Friday                   572 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 Saturday                 418 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Sunday                   407 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Sunday                   407 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 ```
 
 
@@ -194,20 +194,20 @@ Sunday                   407 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               16 hrs 6 mins       █████████████████████░░░░   84.05 % 
-Solidity                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-SCSS                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TypeScript               15 hrs 10 mins      █████████████████████░░░░   83.03 % 
+JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+SCSS                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               31 repos            █████████░░░░░░░░░░░░░░░░   36.05 % 
+TypeScript               32 repos            █████████░░░░░░░░░░░░░░░░   37.21 % 
 Jupyter Notebook         5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 Solidity                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
@@ -221,7 +221,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2024 18:43:29 UTC
+ Last Updated on 09/02/2024 18:43:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
