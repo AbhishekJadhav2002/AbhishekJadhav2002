@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.0%20million%20lines%20of%20code-blue)
 
@@ -194,14 +194,14 @@ Sunday                   449 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 30 mins       ███████████░░░░░░░░░░░░░░   43.37 % 
-Python                   2 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.21 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Python                   2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
+Java                     1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   30.77 % 
+TypeScript               1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -221,7 +221,7 @@ Solidity                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2024 18:43:27 UTC
+ Last Updated on 27/04/2024 18:42:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
