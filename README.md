@@ -159,7 +159,7 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C079%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
@@ -194,14 +194,14 @@ Sunday                   365 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               7 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-YAML                     6 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-Docker                   4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Python                   3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Makefile                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+JavaScript               7 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.47 % 
+YAML                     5 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Docker                   3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Python                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -221,7 +221,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2024 18:45:55 UTC
+ Last Updated on 20/06/2024 18:45:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
