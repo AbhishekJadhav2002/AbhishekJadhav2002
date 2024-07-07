@@ -167,6 +167,8 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 
 > 📦 75.6 kB Used in GitHub's Storage 
  > 
+> 🏆 302 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 62 Public Repositories 
@@ -215,7 +217,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2024 18:43:25 UTC
+ Last Updated on 07/07/2024 18:43:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
