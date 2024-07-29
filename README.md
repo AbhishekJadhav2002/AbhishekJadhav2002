@@ -159,13 +159,15 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C111%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 77.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 313 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -219,7 +221,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2024 18:43:46 UTC
+ Last Updated on 29/07/2024 18:45:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
