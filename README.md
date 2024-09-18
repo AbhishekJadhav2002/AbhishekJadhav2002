@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C299%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C301%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
@@ -194,12 +194,13 @@ Sunday                   359 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               12 hrs 14 mins      ███████████████████████░░   92.11 % 
-JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+TypeScript               11 hrs 11 mins      ██████████████████████░░░   89.82 % 
+JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -219,7 +220,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2024 18:47:50 UTC
+ Last Updated on 18/09/2024 18:47:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
