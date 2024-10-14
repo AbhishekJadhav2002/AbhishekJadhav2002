@@ -167,8 +167,6 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 
 > 📦 78.1 kB Used in GitHub's Storage 
  > 
-> 🏆 313 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 64 Public Repositories 
@@ -194,14 +192,14 @@ Sunday                   359 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               22 hrs 6 mins       ███████████████████████░░   93.24 % 
-JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+TypeScript               21 hrs 59 mins      ███████████████████████░░   93.21 % 
+JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 SSH Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -221,7 +219,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2024 18:46:58 UTC
+ Last Updated on 14/10/2024 18:49:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
