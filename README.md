@@ -165,7 +165,9 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 
 **🐱 My GitHub Data** 
 
-> 📦 72.6 kB Used in GitHub's Storage 
+> 📦 72.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 54 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -201,11 +203,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               36 repos            ███████████░░░░░░░░░░░░░░   43.90 % 
-TypeScript               25 repos            ████████░░░░░░░░░░░░░░░░░   30.49 % 
-Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+JavaScript               36 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
+TypeScript               24 repos            ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -215,7 +217,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2025 18:45:53 UTC
+ Last Updated on 09/02/2025 18:44:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
