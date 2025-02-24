@@ -165,9 +165,7 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 
 **🐱 My GitHub Data** 
 
-> 📦 72.6 kB Used in GitHub's Storage 
- > 
-> 🏆 54 Contributions in the Year 2025
+> 📦 72.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -194,12 +192,12 @@ Sunday                   536 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 56 mins       █████████████████████████   99.77 % 
+TypeScript               5 hrs 49 mins       █████████████████████████   99.76 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -219,7 +217,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2025 18:44:39 UTC
+ Last Updated on 24/02/2025 18:49:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
