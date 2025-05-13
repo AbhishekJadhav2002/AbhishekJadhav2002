@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C050%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C057%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -194,15 +194,15 @@ Sunday                   528 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               20 hrs 3 mins       ████████████████████████░   97.93 % 
-Git                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               26 hrs 14 mins      ████████████████████████░   97.49 % 
+CSS                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Git                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 28 mins      █████████████████████████   99.97 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+VS Code                  26 hrs 54 mins      █████████████████████████   99.98 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -222,7 +222,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2025 18:52:36 UTC
+ Last Updated on 13/05/2025 18:51:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
