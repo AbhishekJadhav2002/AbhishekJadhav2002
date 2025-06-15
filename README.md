@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C156%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C162%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -166,8 +166,6 @@ Hello, my name is Abhishek Jadhav and I am a bachelor's student at [Pune Institu
 **🐱 My GitHub Data** 
 
 > 📦 72.7 kB Used in GitHub's Storage 
- > 
-> 🏆 58 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -194,12 +192,12 @@ Sunday                   528 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               16 hrs 52 mins      █████████████████████████   98.09 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+TypeScript               22 hrs 47 mins      █████████████████████████   98.58 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -219,7 +217,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2025 18:51:22 UTC
+ Last Updated on 15/06/2025 18:51:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
