@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C449%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C451%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6312-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5102-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
@@ -194,14 +194,14 @@ Sunday                   591 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               24 hrs 2 mins       ██████████████████████░░░   87.60 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Solidity                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TypeScript               25 hrs 3 mins       ███████████████████████░░   93.77 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+SSH Config               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Solidity                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -221,7 +221,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2025 18:47:13 UTC
+ Last Updated on 07/09/2025 18:47:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
