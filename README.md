@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C466%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C468%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -166,8 +166,6 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 **🐱 My GitHub Data** 
 
 > 📦 776.7 kB Used in GitHub's Storage 
- > 
-> 🏆 933 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -194,12 +192,12 @@ Sunday                   591 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 hrs 18 mins      ████████████████████████░   97.40 % 
-CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+TypeScript               15 hrs 57 mins      ████████████████████████░   97.57 % 
+CSS                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -219,7 +217,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2025 18:46:46 UTC
+ Last Updated on 15/09/2025 18:51:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
