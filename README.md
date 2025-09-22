@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C486%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C486%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -194,14 +194,14 @@ Sunday                   591 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               18 hrs 36 mins      ███████████████████████░░   91.38 % 
-JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-SSH Config               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TypeScript               16 hrs 39 mins      ███████████████████████░░   90.16 % 
+JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+SSH Config               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -221,7 +221,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2025 18:48:58 UTC
+ Last Updated on 22/09/2025 18:51:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
