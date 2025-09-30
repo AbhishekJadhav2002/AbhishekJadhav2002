@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C512%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C516%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -194,14 +194,14 @@ Sunday                   591 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               24 hrs 19 mins      ███████████████████████░░   93.80 % 
-SSH Config               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+TypeScript               25 hrs 53 mins      ███████████████████████░░   93.94 % 
+SSH Config               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -221,7 +221,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2025 18:52:41 UTC
+ Last Updated on 30/09/2025 18:52:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
