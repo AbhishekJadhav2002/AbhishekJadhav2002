@@ -157,17 +157,17 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C562%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C568%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 788.3 kB Used in GitHub's Storage 
+> 📦 788.5 kB Used in GitHub's Storage 
  > 
-> 🏆 957 Contributions in the Year 2025
+> 🏆 959 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -178,13 +178,13 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   761 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Monday                   763 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 Tuesday                  631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Wednesday                699 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Thursday                 1608 commits        ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-Friday                   689 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Wednesday                699 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Thursday                 1608 commits        ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Friday                   689 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 Saturday                 601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Sunday                   600 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Sunday                   600 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 ```
 
 
@@ -194,25 +194,24 @@ Sunday                   600 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               10 hrs 13 mins      █████████████░░░░░░░░░░░░   52.14 % 
-JSON                     2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-JavaScript               2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Java Properties          1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Groovy                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+TypeScript               12 hrs 27 mins      ████████████████░░░░░░░░░   63.16 % 
+JavaScript               2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+JSON                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Java Properties          1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Groovy                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 6 mins       ███████████████████████░░   92.31 % 
-Cursor                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+VS Code                  19 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               41 repos            ██████████░░░░░░░░░░░░░░░   41.00 % 
-JavaScript               37 repos            █████████░░░░░░░░░░░░░░░░   37.00 % 
-Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               41 repos            ██████████░░░░░░░░░░░░░░░   40.59 % 
+JavaScript               38 repos            █████████░░░░░░░░░░░░░░░░   37.62 % 
+Jupyter Notebook         6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 ```
 
 
@@ -222,7 +221,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2025 18:50:22 UTC
+ Last Updated on 27/10/2025 18:54:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
