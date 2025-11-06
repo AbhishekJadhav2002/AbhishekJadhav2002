@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C598%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C600%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -165,9 +165,9 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 
 **🐱 My GitHub Data** 
 
-> 📦 789.6 kB Used in GitHub's Storage 
+> 📦 789.7 kB Used in GitHub's Storage 
  > 
-> 🏆 977 Contributions in the Year 2025
+> 🏆 978 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -194,24 +194,25 @@ Sunday                   601 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               12 hrs 45 mins      ██████████████░░░░░░░░░░░   56.34 % 
-JavaScript               7 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.16 % 
-CSS                      1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+TypeScript               13 hrs 4 mins       ████████████████░░░░░░░░░   64.79 % 
+JavaScript               4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+CSS                      1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 59 mins      █████████████████████████   99.13 % 
+Cursor                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               40 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               38 repos            ██████████░░░░░░░░░░░░░░░   38.00 % 
-Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               40 repos            ██████████░░░░░░░░░░░░░░░   39.60 % 
+JavaScript               39 repos            ██████████░░░░░░░░░░░░░░░   38.61 % 
+Jupyter Notebook         6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 ```
 
 
@@ -221,7 +222,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2025 18:55:26 UTC
+ Last Updated on 06/11/2025 18:57:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
