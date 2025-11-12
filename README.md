@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C612%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C615%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
@@ -167,7 +167,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 
 > 📦 794.7 kB Used in GitHub's Storage 
  > 
-> 🏆 982 Contributions in the Year 2025
+> 🏆 985 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -178,13 +178,13 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   768 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Tuesday                  642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Wednesday                719 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Thursday                 1624 commits        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-Friday                   693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Saturday                 602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Sunday                   601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Monday                   769 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Tuesday                  646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Wednesday                733 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Thursday                 1632 commits        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Friday                   695 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Saturday                 602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Sunday                   601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 ```
 
 
@@ -194,15 +194,15 @@ Sunday                   601 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 56 mins       ███████████████░░░░░░░░░░   58.15 % 
-CSS                      2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-JavaScript               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+TypeScript               9 hrs 24 mins       █████████████░░░░░░░░░░░░   53.92 % 
+CSS                      3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+JavaScript               2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Git                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 12 mins      █████████████████████████   98.86 % 
-Cursor                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+VS Code                  17 hrs 16 mins      █████████████████████████   99.00 % 
+Cursor                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -222,7 +222,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2025 18:56:06 UTC
+ Last Updated on 12/11/2025 18:55:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
