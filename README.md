@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C734%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C738%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
@@ -194,14 +194,14 @@ Sunday                   601 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 hrs 12 mins      ██████████████████░░░░░░░   70.96 % 
-JavaScript               2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-CSS                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+TypeScript               14 hrs              ██████████████████░░░░░░░   73.11 % 
+JavaScript               1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+CSS                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -221,7 +221,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2025 19:00:13 UTC
+ Last Updated on 13/12/2025 18:54:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
