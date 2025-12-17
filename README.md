@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C745%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C748%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
@@ -167,7 +167,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 
 > 📦 800.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,075 Contributions in the Year 2025
+> 🏆 1,077 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -178,13 +178,13 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   788 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Tuesday                  663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Wednesday                806 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Thursday                 1683 commits        ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-Friday                   719 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Saturday                 602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Sunday                   597 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Monday                   788 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Tuesday                  663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Wednesday                808 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Thursday                 1685 commits        ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+Friday                   719 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Saturday                 602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Sunday                   599 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 ```
 
 
@@ -194,11 +194,11 @@ Sunday                   597 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 hrs 27 mins      ██████████████░░░░░░░░░░░   55.37 % 
-JavaScript               7 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.41 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-CSS                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+TypeScript               12 hrs 30 mins      █████████████░░░░░░░░░░░░   51.49 % 
+JavaScript               7 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.08 % 
+JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
 VS Code                  24 hrs 18 mins      █████████████████████████   100.00 % 
@@ -221,7 +221,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2025 19:01:26 UTC
+ Last Updated on 17/12/2025 19:01:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
