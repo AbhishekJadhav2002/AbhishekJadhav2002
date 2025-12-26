@@ -159,13 +159,13 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C794%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 800.5 kB Used in GitHub's Storage 
+> 📦 800.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,094 Contributions in the Year 2025
  > 
@@ -194,14 +194,14 @@ Sunday                   603 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               37 hrs 48 mins      ████████████████████████░   95.92 % 
-Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+TypeScript               34 hrs 48 mins      ████████████████████████░   96.12 % 
+Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+CSS                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-VS Code                  39 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  36 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -221,7 +221,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2025 18:58:04 UTC
+ Last Updated on 26/12/2025 18:58:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
