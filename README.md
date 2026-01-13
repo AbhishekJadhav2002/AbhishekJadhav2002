@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C837%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C838%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue?style=flat)
 
@@ -194,14 +194,14 @@ Sunday                   605 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
-JSON                     4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-YAML                     3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-TypeScript               3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Other                    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+JavaScript               8 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.22 % 
+YAML                     3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+TypeScript               3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+JSON                     3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Other                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -221,7 +221,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2026 19:03:45 UTC
+ Last Updated on 13/01/2026 19:02:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
