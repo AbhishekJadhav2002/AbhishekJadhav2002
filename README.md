@@ -159,7 +159,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C918%20hrs%2026%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.16%20million%20lines%20of%20code-blue?style=flat)
 
@@ -194,14 +194,14 @@ Sunday                   624 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               22 hrs 52 mins      ████████████████████░░░░░   80.33 % 
-JavaScript               2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+TypeScript               21 hrs 21 mins      ████████████████████░░░░░   79.82 % 
+JavaScript               2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -221,7 +221,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2026 19:07:28 UTC
+ Last Updated on 15/02/2026 19:10:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
