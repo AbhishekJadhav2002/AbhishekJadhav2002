@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C036%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C038%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue?style=flat)
 
@@ -165,7 +165,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 
 **🐱 My GitHub Data** 
 
-> 📦 864.7 kB Used in GitHub's Storage 
+> 📦 864.6 kB Used in GitHub's Storage 
  > 
 > 🏆 190 Contributions in the Year 2026
  > 
@@ -194,14 +194,14 @@ Sunday                   654 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.43 % 
-Python                   5 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.17 % 
-TypeScript               2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JavaScript               6 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.58 % 
+Python                   5 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.63 % 
+TypeScript               4 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -221,7 +221,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2026 19:19:22 UTC
+ Last Updated on 12/04/2026 19:31:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
