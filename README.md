@@ -161,13 +161,13 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 865.4 kB Used in GitHub's Storage 
  > 
-> 🏆 226 Contributions in the Year 2026
+> 🏆 263 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -175,6 +175,35 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
  > 
 > 🔑 37 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   924 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Tuesday                  861 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Wednesday                1078 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Thursday                 1986 commits        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+Friday                   884 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Saturday                 662 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Sunday                   654 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+Bash                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+SQL                      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+YAML                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Prisma                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 25 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -192,7 +221,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 20:23:29 UTC
+ Last Updated on 20/05/2026 20:43:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
