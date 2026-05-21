@@ -159,7 +159,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C107%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.39%20million%20lines%20of%20code-blue?style=flat)
 
@@ -194,14 +194,10 @@ Sunday                   654 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-Bash                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-SQL                      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-YAML                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Prisma                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 25 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -221,7 +217,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 20:43:09 UTC
+ Last Updated on 21/05/2026 20:30:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
