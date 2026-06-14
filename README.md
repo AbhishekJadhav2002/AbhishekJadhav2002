@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C154%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C156%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -194,15 +194,15 @@ Sunday                   697 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               5 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.86 % 
-TypeScript               4 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-Other                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Bash                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+JavaScript               6 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.33 % 
+TypeScript               3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+JSON                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 47 mins      ██████████████████████░░░   89.87 % 
-Claude Code              1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+VS Code                  13 hrs 44 mins      █████████████████████░░░░   85.19 % 
+Claude Code              2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -222,7 +222,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2026 20:12:55 UTC
+ Last Updated on 14/06/2026 20:15:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
