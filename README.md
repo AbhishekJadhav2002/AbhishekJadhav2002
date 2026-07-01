@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C191%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C193%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -167,7 +167,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 
 > 📦 869.0 kB Used in GitHub's Storage 
  > 
-> 🏆 550 Contributions in the Year 2026
+> 🏆 553 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -178,13 +178,13 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1094 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Tuesday                  1195 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Wednesday                1233 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Thursday                 2133 commits        ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Friday                   1131 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Saturday                 717 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Sunday                   710 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Monday                   1094 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Tuesday                  1195 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Wednesday                1242 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Thursday                 2135 commits        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Friday                   1134 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Saturday                 717 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Sunday                   710 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 ```
 
 
@@ -194,15 +194,15 @@ Sunday                   710 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 hrs 23 mins       █████████████░░░░░░░░░░░░   52.96 % 
-YAML                     2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Bash                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+JavaScript               7 hrs 47 mins       ██████████████░░░░░░░░░░░   56.14 % 
+JSON                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+YAML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 🔥 Editors: 
-VS Code                  10 hrs              ████████████████░░░░░░░░░   63.16 % 
-Claude Code              5 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.84 % 
+VS Code                  7 hrs 3 mins        █████████████░░░░░░░░░░░░   50.86 % 
+Claude Code              6 hrs 49 mins       ████████████░░░░░░░░░░░░░   49.14 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -222,7 +222,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 20:38:58 UTC
+ Last Updated on 01/07/2026 20:34:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
