@@ -159,7 +159,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C199%20hrs%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -194,15 +194,15 @@ Sunday                   710 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               5 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.22 % 
-JSON                     1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Markdown                 1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Python                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Text                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+JavaScript               5 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.71 % 
+JSON                     1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Markdown                 1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Python                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Text                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 14 mins       ██████████████████░░░░░░░   71.66 % 
-VS Code                  3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+Claude Code              7 hrs 40 mins       ██████████████████░░░░░░░   70.30 % 
+VS Code                  3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.70 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -222,7 +222,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2026 19:54:02 UTC
+ Last Updated on 05/07/2026 20:02:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
