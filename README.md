@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C226%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C227%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.05%20million%20lines%20of%20code-blue?style=flat)
 
@@ -167,7 +167,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 
 > 📦 869.3 kB Used in GitHub's Storage 
  > 
-> 🏆 593 Contributions in the Year 2026
+> 🏆 594 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -178,11 +178,11 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Monday                   1184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 Tuesday                  1435 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Wednesday                1409 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Thursday                 2299 commits        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-Friday                   1309 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Wednesday                1409 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Thursday                 2298 commits        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Friday                   1308 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 Saturday                 721 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 Sunday                   714 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 ```
@@ -194,16 +194,16 @@ Sunday                   714 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 hrs 42 mins       ██████████████░░░░░░░░░░░   54.36 % 
-Other                    2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Markdown                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+JavaScript               9 hrs 11 mins       ██████████████░░░░░░░░░░░   55.31 % 
+Other                    2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Markdown                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Python                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 14 mins       ███████████░░░░░░░░░░░░░░   45.18 % 
-VS Code                  7 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.67 % 
-Copilot CLI              1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Claude Code              8 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.11 % 
+VS Code                  6 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.10 % 
+Copilot CLI              1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -223,7 +223,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2026 20:17:45 UTC
+ Last Updated on 21/07/2026 20:10:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
