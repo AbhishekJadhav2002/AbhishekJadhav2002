@@ -157,7 +157,9 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C237%20hrs%2057%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.08%20million%20lines%20of%20code-blue?style=flat)
 
@@ -173,6 +175,37 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
  > 
 > 🔑 39 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1187 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Tuesday                  1437 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Wednesday                1427 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Thursday                 2314 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Friday                   1331 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Saturday                 723 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Sunday                   715 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.64 % 
+Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+TypeScript               55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+YAML                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+
+🔥 Editors: 
+Claude Code              3 hrs 30 mins       ████████████░░░░░░░░░░░░░   49.11 % 
+VS Code                  2 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
+Copilot CLI              51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -190,7 +223,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 20:05:47 UTC
+ Last Updated on 25/07/2026 19:53:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
