@@ -157,7 +157,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C237%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C239%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -165,7 +165,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 
 **🐱 My GitHub Data** 
 
-> 📦 869.3 kB Used in GitHub's Storage 
+> 📦 869.4 kB Used in GitHub's Storage 
  > 
 > 🏆 653 Contributions in the Year 2026
  > 
@@ -194,16 +194,16 @@ Sunday                   715 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.64 % 
-Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-TypeScript               55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-YAML                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+JavaScript               3 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.03 % 
+TypeScript               55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+YAML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Bash                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 30 mins       ████████████░░░░░░░░░░░░░   49.11 % 
-VS Code                  2 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
-Copilot CLI              51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+VS Code                  4 hrs 16 mins       ██████████████░░░░░░░░░░░   56.13 % 
+Claude Code              2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.65 % 
+Copilot CLI              51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -223,7 +223,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:53:45 UTC
+ Last Updated on 26/07/2026 19:54:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
