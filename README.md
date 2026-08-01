@@ -157,11 +157,11 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C205%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C208%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.12%20million%20lines%20of%20code-blue?style=flat)
 
@@ -196,40 +196,41 @@ Sunday                   715 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               7 hrs 22 mins       ███████████████░░░░░░░░░░   60.49 % 
-YAML                     1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+JavaScript               7 hrs 48 mins       █████████████░░░░░░░░░░░░   50.32 % 
+YAML                     3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+Other                    1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 25 mins       █████████████░░░░░░░░░░░░   52.64 % 
-Claude Code              4 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.59 % 
-Copilot CLI              49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+VS Code                  8 hrs 56 mins       ██████████████░░░░░░░░░░░   57.65 % 
+Claude Code              4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Copilot CLI              1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 14 mins (59.35%)
+⏱ AI Coding Time: 8 hrs 24 mins (54.13%)
 
-✍️ 3,504 lines written by AI, 133 lines written by hand (96.34% AI-written)
+✍️ 3,514 lines written by AI, 182 lines written by hand (95.08% AI-written)
 
-🔤 204,471,519 Input Tokens, 443,143 Output Tokens
+🔤 203,584,641 Input Tokens, 500,833 Output Tokens
 
-💵 $1027.43 Estimated AI Cost This Week
+💵 $1023.64 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 104 AI Prompts
+🧠 14 AI Sessions, 51 AI Prompts
 
-Opus                     3,345 lines         ███████████████████████░░   92.66 % 
-GPT                      265 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Opus                     3,345 lines         ███████████████████████░░   91.90 % 
+GPT                      295 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.34% of written lines came from AI
-📄 Detailed Prompter — average 511 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 16.2% of changed lines were hand-edited
+🤖 AI-Driven — 95.08% of written lines came from AI
+📄 Detailed Prompter — average 952 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 18.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -249,7 +250,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 20:13:15 UTC
+ Last Updated on 01/08/2026 19:55:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
