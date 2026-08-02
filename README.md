@@ -196,30 +196,30 @@ Sunday                   715 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               7 hrs 48 mins       █████████████░░░░░░░░░░░░   50.32 % 
-YAML                     3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-Other                    1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+JavaScript               6 hrs 14 mins       ███████████░░░░░░░░░░░░░░   45.93 % 
+YAML                     3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+Other                    1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 56 mins       ██████████████░░░░░░░░░░░   57.65 % 
-Claude Code              4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.82 % 
-Copilot CLI              1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+VS Code                  7 hrs 13 mins       █████████████░░░░░░░░░░░░   53.21 % 
+Claude Code              4 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.75 % 
+Copilot CLI              1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 24 mins (54.13%)
+⏱ AI Coding Time: 7 hrs 58 mins (58.67%)
 
-✍️ 3,514 lines written by AI, 182 lines written by hand (95.08% AI-written)
+✍️ 3,514 lines written by AI, 171 lines written by hand (95.36% AI-written)
 
 🔤 203,584,641 Input Tokens, 500,833 Output Tokens
 
 💵 $1023.64 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 51 AI Prompts
+🧠 13 AI Sessions, 50 AI Prompts
 
 Opus                     3,345 lines         ███████████████████████░░   91.90 % 
 GPT                      295 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
@@ -227,10 +227,10 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.08% of written lines came from AI
-📄 Detailed Prompter — average 952 characters per prompt
+🤖 AI-Driven — 95.36% of written lines came from AI
+📄 Detailed Prompter — average 967 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 18.04% of changed lines were hand-edited
+🚀 High AI Trust — 17.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -250,7 +250,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 19:55:36 UTC
+ Last Updated on 02/08/2026 19:53:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
