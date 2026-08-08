@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C214%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C215%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-131%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -180,12 +180,12 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1228 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Tuesday                  1523 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Wednesday                1554 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Monday                   1228 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Tuesday                  1523 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Wednesday                1554 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
 Thursday                 2429 commits        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
 Friday                   1513 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Saturday                 734 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Saturday                 735 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 Sunday                   722 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 ```
 
@@ -196,40 +196,39 @@ Sunday                   722 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.50 % 
-YAML                     2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Other                    1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JavaScript               3 hrs 50 mins       █████████████░░░░░░░░░░░░   50.64 % 
+YAML                     1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 45 mins       █████████████████░░░░░░░░   68.87 % 
-Claude Code              1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Copilot CLI              1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+VS Code                  4 hrs 39 mins       ███████████████░░░░░░░░░░   61.25 % 
+Claude Code              1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Copilot CLI              58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 3 mins (41.43%)
+⏱ AI Coding Time: 3 hrs 40 mins (48.32%)
 
-✍️ 545 lines written by AI, 113 lines written by hand (82.83% AI-written)
+✍️ 568 lines written by AI, 69 lines written by hand (89.17% AI-written)
 
-🔤 94,958,040 Input Tokens, 219,936 Output Tokens
+🔤 102,496,037 Input Tokens, 187,141 Output Tokens
 
-💵 $422.72 Estimated AI Cost This Week
+💵 $459.68 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 34 AI Prompts
+🧠 10 AI Sessions, 33 AI Prompts
 
-Opus                     497 lines           ██████████████████████░░░   87.81 % 
-GPT                      69 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     497 lines           █████████████████████░░░░   85.99 % 
+GPT                      81 lines            ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.83% of written lines came from AI
-📄 Detailed Prompter — average 516 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 28.26% of changed lines were hand-edited
+🤖 AI-Driven — 89.17% of written lines came from AI
+📝 Concise Prompter — average 479 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 18.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -249,7 +248,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:42:30 UTC
+ Last Updated on 08/08/2026 19:17:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
