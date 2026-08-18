@@ -157,19 +157,19 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C231%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C232%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.44%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 869.7 kB Used in GitHub's Storage 
  > 
-> 🏆 729 Contributions in the Year 2026
+> 🏆 737 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -180,13 +180,13 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1258 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Tuesday                  1570 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                1639 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 2516 commits        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-Friday                   1624 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Saturday                 745 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Sunday                   734 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Monday                   1282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Tuesday                  1630 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Wednesday                1666 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Thursday                 2555 commits        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Friday                   1658 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Saturday                 747 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Sunday                   738 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 ```
 
 
@@ -196,42 +196,42 @@ Sunday                   734 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               10 hrs 9 mins       ███████████████░░░░░░░░░░   60.92 % 
-Other                    1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+JavaScript               9 hrs 34 mins       ██████████████░░░░░░░░░░░   57.09 % 
+JSON                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Other                    1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+YAML                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 46 mins      █████████████████████░░░░   82.63 % 
-Copilot CLI              2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Claude Code              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+VS Code                  14 hrs 4 mins       █████████████████████░░░░   83.94 % 
+Copilot CLI              2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Claude Code              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 56 mins (59.67%)
+⏱ AI Coding Time: 9 hrs 33 mins (57.05%)
 
-✍️ 13,819 lines written by AI, 639 lines written by hand (95.58% AI-written)
+✍️ 13,250 lines written by AI, 656 lines written by hand (95.28% AI-written)
 
-🔤 3,440,781 Input Tokens, 205,136 Output Tokens
+🔤 3,307,913 Input Tokens, 183,230 Output Tokens
 
-💵 $37.47 Estimated AI Cost This Week
+💵 $24.48 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 91 AI Prompts
+🧠 19 AI Sessions, 88 AI Prompts
 
-Github-Copilot           13,082 lines        ███████████████████████░░   92.30 % 
-Opus                     939 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-GPT                      153 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Github-Copilot           13,082 lines        ████████████████████████░   97.69 % 
+GPT                      230 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Opus                     79 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.58% of written lines came from AI
-📄 Detailed Prompter — average 522 characters per prompt
+🤖 AI-Driven — 95.28% of written lines came from AI
+📝 Concise Prompter — average 459 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 6.03% of changed lines were hand-edited
+🚀 High AI Trust — 6.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -251,7 +251,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:18:22 UTC
+ Last Updated on 18/08/2026 19:18:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
