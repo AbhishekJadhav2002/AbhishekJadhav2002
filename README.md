@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C238%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C239%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -167,7 +167,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 
 **🐱 My GitHub Data** 
 
-> 📦 869.8 kB Used in GitHub's Storage 
+> 📦 869.6 kB Used in GitHub's Storage 
  > 
 > 🏆 741 Contributions in the Year 2026
  > 
@@ -196,39 +196,39 @@ Sunday                   741 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 55 mins       █████████████░░░░░░░░░░░░   53.67 % 
-Other                    1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+JavaScript               5 hrs 38 mins       ██████████████░░░░░░░░░░░   56.36 % 
+Other                    1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 15 mins       ██████████████░░░░░░░░░░░   57.31 % 
-Copilot CLI              3 hrs 54 mins       ███████████░░░░░░░░░░░░░░   42.69 % 
+VS Code                  5 hrs 32 mins       ██████████████░░░░░░░░░░░   55.34 % 
+Copilot CLI              4 hrs 28 mins       ███████████░░░░░░░░░░░░░░   44.66 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 20 mins (69.26%)
+⏱ AI Coding Time: 6 hrs 56 mins (69.25%)
 
-✍️ 3,716 lines written by AI, 37 lines written by hand (99.01% AI-written)
+✍️ 3,895 lines written by AI, 55 lines written by hand (98.61% AI-written)
 
-🔤 1,178,952 Input Tokens, 362,136 Output Tokens
+🔤 1,178,952 Input Tokens, 385,112 Output Tokens
 
-💵 $9.89 Estimated AI Cost This Week
+💵 $10.21 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 64 AI Prompts
+🧠 16 AI Sessions, 65 AI Prompts
 
-Github-Copilot           2,324 lines         ███████████████░░░░░░░░░░   61.48 % 
-GPT                      1,456 lines         ██████████░░░░░░░░░░░░░░░   38.52 % 
+Github-Copilot           2,324 lines         ███████████████░░░░░░░░░░   58.42 % 
+GPT                      1,654 lines         ██████████░░░░░░░░░░░░░░░   41.58 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.01% of written lines came from AI
-📚 Verbose Prompter — average 2,104 characters per prompt
+🤖 AI-Driven — 98.61% of written lines came from AI
+📚 Verbose Prompter — average 2,025 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.61% of changed lines were hand-edited
+🚀 High AI Trust — 2.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -248,7 +248,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 19:09:43 UTC
+ Last Updated on 23/08/2026 19:09:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
