@@ -196,39 +196,39 @@ Sunday                   746 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               9 hrs 32 mins       ██████████████████░░░░░░░   72.64 % 
-Other                    1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+JavaScript               8 hrs 58 mins       ███████████████████░░░░░░   75.74 % 
+Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 46 mins       █████████████████░░░░░░░░   66.87 % 
-Copilot CLI              4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.13 % 
+VS Code                  8 hrs 22 mins       ██████████████████░░░░░░░   70.65 % 
+Copilot CLI              3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 16 mins (62.97%)
+⏱ AI Coding Time: 7 hrs 36 mins (64.16%)
 
-✍️ 10,148 lines written by AI, 245 lines written by hand (97.64% AI-written)
+✍️ 11,266 lines written by AI, 230 lines written by hand (98.0% AI-written)
 
-🔤 10,151,422 Input Tokens, 437,501 Output Tokens
+🔤 8,381,712 Input Tokens, 399,630 Output Tokens
 
-💵 $67.88 Estimated AI Cost This Week
+💵 $56.71 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 65 AI Prompts
+🧠 10 AI Sessions, 62 AI Prompts
 
-Github-Copilot           7,045 lines         ████████████████░░░░░░░░░   65.13 % 
-GPT                      3,772 lines         █████████░░░░░░░░░░░░░░░░   34.87 % 
+Github-Copilot           8,342 lines         ██████████████████░░░░░░░   70.01 % 
+GPT                      3,574 lines         ███████░░░░░░░░░░░░░░░░░░   29.99 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.64% of written lines came from AI
+🤖 AI-Driven — 98.0% of written lines came from AI
 📝 Concise Prompter — average 278 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 4.16% of changed lines were hand-edited
+🚀 High AI Trust — 3.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -248,7 +248,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 02:00:27 UTC
+ Last Updated on 29/08/2026 21:16:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
