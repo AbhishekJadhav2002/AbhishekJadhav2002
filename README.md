@@ -196,22 +196,22 @@ Sunday                   763 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 59 mins       █████████████░░░░░░░░░░░░   51.06 % 
+JavaScript               3 hrs 59 mins       █████████████░░░░░░░░░░░░   51.01 % 
 Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 30 mins       ██████████████████░░░░░░░   70.28 % 
-Copilot CLI              2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+VS Code                  5 hrs 29 mins       ██████████████████░░░░░░░   70.25 % 
+Copilot CLI              2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
 Claude Code              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 39 mins (59.47%)
+⏱ AI Coding Time: 4 hrs 39 mins (59.53%)
 
 ✍️ 1,590 lines written by AI, 104 lines written by hand (93.86% AI-written)
 
@@ -231,7 +231,7 @@ Github-Copilot-Cli       0 lines             ░░░░░░░░░░░�
 🤖 AI-Driven — 93.86% of written lines came from AI
 📄 Detailed Prompter — average 808 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 13.43% of changed lines were hand-edited
+🚀 High AI Trust — 13.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -251,7 +251,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:59:28 UTC
+ Last Updated on 13/09/2026 21:13:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
