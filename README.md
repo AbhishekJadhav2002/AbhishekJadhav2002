@@ -157,9 +157,9 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C272%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C273%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -196,41 +196,41 @@ Sunday                   770 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Python                   2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-Other                    1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-TypeScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+JavaScript               3 hrs               ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+Python                   2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-Copilot CLI              4 hrs 35 mins       █████████████░░░░░░░░░░░░   52.16 % 
-VS Code                  3 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.38 % 
-Claude Code              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Copilot CLI              4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.31 % 
+VS Code                  3 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.84 % 
+Claude Code              1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 22 mins (72.29%)
+⏱ AI Coding Time: 7 hrs 41 mins (75.76%)
 
-✍️ 1,882 lines written by AI, 77 lines written by hand (96.07% AI-written)
+✍️ 2,452 lines written by AI, 73 lines written by hand (97.11% AI-written)
 
-🔤 4,650,386 Input Tokens, 314,910 Output Tokens
+🔤 5,706,484 Input Tokens, 421,015 Output Tokens
 
-💵 $42.81 Estimated AI Cost This Week
+💵 $69.22 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 38 AI Prompts
+🧠 13 AI Sessions, 44 AI Prompts
 
-Opus                     1,263 lines         ████████████████░░░░░░░░░   65.47 % 
-Sonnet                   654 lines           ████████░░░░░░░░░░░░░░░░░   33.90 % 
-GPT                      12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Opus                     2,380 lines         ████████████████████░░░░░   78.14 % 
+Sonnet                   654 lines           █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+GPT                      12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.07% of written lines came from AI
-📄 Detailed Prompter — average 696 characters per prompt
+🤖 AI-Driven — 97.11% of written lines came from AI
+📄 Detailed Prompter — average 638 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 5.12% of changed lines were hand-edited
+🚀 High AI Trust — 3.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -250,7 +250,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:21:34 UTC
+ Last Updated on 19/09/2026 21:06:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
