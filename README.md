@@ -157,11 +157,11 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="16" height="16" /> <b>Weekly Development Breakdown</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C273%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C274%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-176%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.11%20million%20lines%20of%20code-blue?style=flat)
 
@@ -196,41 +196,41 @@ Sunday                   770 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs               ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-Python                   2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+JavaScript               3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
+Python                   2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-Copilot CLI              4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.31 % 
-VS Code                  3 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.84 % 
-Claude Code              1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Copilot CLI              4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.88 % 
+VS Code                  3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   37.15 % 
+Claude Code              1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 41 mins (75.76%)
+⏱ AI Coding Time: 8 hrs 1 min (76.53%)
 
-✍️ 2,452 lines written by AI, 73 lines written by hand (97.11% AI-written)
+✍️ 2,512 lines written by AI, 73 lines written by hand (97.18% AI-written)
 
-🔤 5,706,484 Input Tokens, 421,015 Output Tokens
+🔤 6,173,267 Input Tokens, 437,208 Output Tokens
 
-💵 $69.22 Estimated AI Cost This Week
+💵 $76.79 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 44 AI Prompts
+🧠 14 AI Sessions, 48 AI Prompts
 
-Opus                     2,380 lines         ████████████████████░░░░░   78.14 % 
-Sonnet                   654 lines           █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Opus                     2,445 lines         ████████████████████░░░░░   78.59 % 
+Sonnet                   654 lines           █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
 GPT                      12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.11% of written lines came from AI
-📄 Detailed Prompter — average 638 characters per prompt
+🤖 AI-Driven — 97.18% of written lines came from AI
+📄 Detailed Prompter — average 602 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.09% of changed lines were hand-edited
+🚀 High AI Trust — 3.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -250,7 +250,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 21:06:50 UTC
+ Last Updated on 20/09/2026 21:10:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
