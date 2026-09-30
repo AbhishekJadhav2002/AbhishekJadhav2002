@@ -196,38 +196,38 @@ Sunday                   772 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 20 mins       █████████████████░░░░░░░░   66.05 % 
-YAML                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+JavaScript               2 hrs 6 mins        ██████████████░░░░░░░░░░░   57.81 % 
+Markdown                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+YAML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       ████████████████░░░░░░░░░   63.65 % 
-Claude Code              1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   36.35 % 
+VS Code                  1 hr 59 mins        ██████████████░░░░░░░░░░░   54.86 % 
+Claude Code              1 hr 38 mins        ███████████░░░░░░░░░░░░░░   45.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 23 mins (39.4%)
+⏱ AI Coding Time: 1 hr 44 mins (48.1%)
 
-✍️ 163 lines written by AI, 19 lines written by hand (89.56% AI-written)
+✍️ 769 lines written by AI, 16 lines written by hand (97.96% AI-written)
 
-🔤 2,159,967 Input Tokens, 120,596 Output Tokens
+🔤 3,634,154 Input Tokens, 458,635 Output Tokens
 
-💵 $24.32 Estimated AI Cost This Week
+💵 $53.08 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 16 AI Prompts
+🧠 6 AI Sessions, 13 AI Prompts
 
-Opus                     167 lines           █████████████████████████   100.00 % 
+Opus                     773 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.56% of written lines came from AI
-📄 Detailed Prompter — average 1,338 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 36.02% of changed lines were hand-edited
+🤖 AI-Driven — 97.96% of written lines came from AI
+📝 Concise Prompter — average 412 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 10.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -247,7 +247,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:45:39 UTC
+ Last Updated on 30/09/2026 22:44:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
