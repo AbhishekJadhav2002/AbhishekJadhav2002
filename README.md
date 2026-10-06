@@ -161,15 +161,15 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.28%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 870.2 kB Used in GitHub's Storage 
  > 
-> 🏆 853 Contributions in the Year 2026
+> 🏆 855 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -180,13 +180,13 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1587 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Tuesday                  1980 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Wednesday                2233 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Thursday                 3018 commits        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Friday                   2329 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Saturday                 813 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Sunday                   774 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Monday                   1591 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Tuesday                  1983 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                2233 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Thursday                 3019 commits        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Friday                   2335 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Saturday                 814 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Sunday                   774 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 ```
 
 
@@ -196,36 +196,35 @@ Sunday                   774 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 16 mins        ██████████████░░░░░░░░░░░   57.01 % 
-JavaScript               30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Markdown                 1 hr 16 mins        ████████████████░░░░░░░░░   62.67 % 
+JavaScript               30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 6 mins        ████████████████████████░   94.62 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Claude Code              1 hr 54 mins        ████████████████████████░   94.09 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 6 mins (94.92%)
+⏱ AI Coding Time: 1 hr 54 mins (94.41%)
 
 ✍️ 784 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,076,116 Input Tokens, 406,542 Output Tokens
+🔤 2,040,478 Input Tokens, 388,636 Output Tokens
 
-💵 $36.20 Estimated AI Cost This Week
+💵 $34.47 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 Opus                     784 lines           █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 375 characters per prompt
+📝 Concise Prompter — average 437 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
@@ -247,7 +246,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 22:00:34 UTC
+ Last Updated on 06/10/2026 00:27:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
