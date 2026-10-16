@@ -161,7 +161,7 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2029%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.53%20million%20lines%20of%20code-blue?style=flat)
 
@@ -196,38 +196,38 @@ Sunday                   780 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   37.37 % 
-TypeScript               49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Markdown                 1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   31.53 % 
+JSON                     1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+JavaScript               45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 5 mins        ████████████████░░░░░░░░░   62.79 % 
-VS Code                  1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   37.21 % 
+Claude Code              3 hrs 49 mins       ███████████████████░░░░░░   77.02 % 
+VS Code                  1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (64.57%)
+⏱ AI Coding Time: 3 hrs 49 mins (77.02%)
 
-✍️ 1,097 lines written by AI, 5 lines written by hand (99.55% AI-written)
+✍️ 1,660 lines written by AI, 6 lines written by hand (99.64% AI-written)
 
-🔤 3,866,004 Input Tokens, 231,100 Output Tokens
+🔤 2,887,317 Input Tokens, 359,384 Output Tokens
 
-💵 $58.67 Estimated AI Cost This Week
+💵 $52.16 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 20 AI Prompts
+🧠 5 AI Sessions, 25 AI Prompts
 
-Opus                     1,127 lines         █████████████████████████   100.00 % 
+Opus                     1,692 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.55% of written lines came from AI
-📄 Detailed Prompter — average 1,468 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.4% of changed lines were hand-edited
+🤖 AI-Driven — 99.64% of written lines came from AI
+📚 Verbose Prompter — average 4,199 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -247,7 +247,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:52:46 UTC
+ Last Updated on 16/10/2026 21:47:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
