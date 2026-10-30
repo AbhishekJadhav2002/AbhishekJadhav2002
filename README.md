@@ -177,6 +177,58 @@ Hello, my name is Abhishek Jadhav. Graduate from [Pune Institute of Computer Tec
  > 
 > 🔑 39 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1682 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Tuesday                  2070 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Wednesday                2406 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Thursday                 3189 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Friday                   2576 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Saturday                 836 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Sunday                   780 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               48 mins             █████████░░░░░░░░░░░░░░░░   36.60 % 
+YAML                     42 mins             ████████░░░░░░░░░░░░░░░░░   32.01 % 
+JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+
+🔥 Editors: 
+VS Code                  1 hr 59 mins        ███████████████████████░░   90.18 % 
+Claude Code              12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 mins (9.82%)
+
+✍️ 48 lines written by AI, 12 lines written by hand (80.0% AI-written)
+
+🔤 1,208,470 Input Tokens, 26,598 Output Tokens
+
+💵 $6.78 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 7 AI Prompts
+
+Opus                     48 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 80.0% of written lines came from AI
+📝 Concise Prompter — average 402 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 38.46% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -194,7 +246,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbhishekJadhav2002/AbhishekJadhav2002/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 23:09:09 UTC
+ Last Updated on 30/10/2026 22:47:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
